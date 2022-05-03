@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My website is https://lawrancechen.github.io/website/index
+### CHECK IT OUT
 
 <!--
 **Lawrancechen/Lawrancechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
