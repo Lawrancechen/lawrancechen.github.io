@@ -167,6 +167,7 @@ p {
     background-image: url("image/bg_1.jpg");
     background-attachment: fixed;
     overflow: auto;
+    background-repeat: no-repeat;
 }
 
 #intro {
